@@ -1,0 +1,403 @@
+body{
+	font-family:"Georgia",serif;
+	margin:0;
+	padding:0;
+	background: #f4f4f4;
+	text-align:center;
+}
+.page{
+	display:none;
+	padding:20px;
+	background:white;
+	border-radius:8px;
+	box-shadow:0 4px 10px rgba(0,0,0,0.1);
+	margin:20px;
+	max-width:600px;
+	margin:30px auto;
+}
+
+h1{
+	color:#c94f7c;
+}
+
+h2{
+	color:#6a1b4d;
+}
+button{
+	background-color:grey;
+	color:black;
+	border:none;
+	padding:5px 5px;
+	font-size:1.2em;
+	cursor:pointer;
+	border-radius:5px;
+	margin:10px;
+}
+.page1{
+	background-color:black;
+}
+.page1 p{
+	color:white;
+}
+.page2{
+	background-image:url("image.vieux.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat; 
+}
+.page3{
+	background-image:url("image.vieux.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+
+}
+.page40{
+	background-image:url("image.vieux.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat; 
+}
+.page40 p{
+	color:grey
+}
+.page4{
+	background-image:url("3.jpeg");
+}
+.page4 h2{
+	color:pink;
+}
+.image-preface{
+	width:70%;
+	margin:20px auto;
+	display:block;
+	border-radius: 10px;
+	box-shadow:0 4px 8px rgba(0,0,0,0.2);
+}
+.page5{
+	background-image:url("3.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page5 p{
+	color:#f1948a;
+}
+.page5 h2{
+	color:pink;
+}
+.page6{
+	background-image:url("3.jpeg");
+}
+.page6 h2{
+	color:pink;
+}
+.page7{
+	background-image:url("3.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page7 p{
+	color:#f1948a;
+}
+.page7 h2{
+	color:pink;
+}
+.page8{
+	background-image:url("3.jpeg");
+}
+.page8 h2{
+	color:pink;
+}
+.page9{
+	background-image:url("3.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page9 p{
+	color:#f1948a;
+}
+.page9 h2{
+	color:pink;
+}
+.page10{
+	background-image:url("3.jpeg");
+}
+.page10 h2{
+	color:pink;
+}
+.page11{
+	background-image:url("3.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page11 p{
+	color:#f1948a;
+}
+.page11 h2{
+	color:pink;
+}
+.page12{
+	background-image:url("3.jpeg");
+}
+.page12 h2{
+	color:pink;
+}
+.page13{
+	background-image:url("3.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page13 p{
+	color:#f1948a;
+}
+.page13 h2{
+	color:pink;
+}
+.page14{
+	background-image:url("3.jpeg");
+}
+.page14 h2{
+	color:pink;
+}
+.page14 p{
+	color:pink;
+}
+.page15{
+	background-image:url("3.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page15 p{
+	color:#f1948a;
+}
+.page15 h2{
+	color:pink;
+}
+.page16 h1{
+	color:blue;
+}
+.page16{
+	background-color:black;
+}
+.page17 h1{
+	color:red;
+}
+.page17{
+	background-color:yellow;
+}
+.page18{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page18 h2{
+	color:red;
+}
+.page18 p{
+	color:red;
+}
+.page19{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page19 p{
+	color:red;
+}
+.page19 h2{
+	color:purple;
+}
+.page20{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page20 h2{
+	color:red;
+}
+.page20 p{
+	color:red;
+}
+.page21{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page21 p{
+	color:red;
+}
+.page21 h2{
+	color:purple;
+}
+.page22{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page22 h2{
+	color:red;
+}
+.page22 p{
+	color:red;
+}
+.page23{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page23 p{
+	color:red;
+}
+.page23 h2{
+	color:purple;
+}
+.page24{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page24 h2{
+	color:red;
+}
+.page24 p{
+	color:red;
+}
+.page25{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page25 p{
+	color:red;
+}
+.page25 h2{
+	color:purple;
+}
+.page26{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page26 h2{
+	color:red;
+}
+.page26 p{
+	color:red;
+}
+.page27{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page27 p{
+	color:red;
+}
+.page27 h2{
+	color:purple;
+}
+.page28 h2{
+	color:red;
+}
+.page28 p{
+	color:red;
+}
+.page28{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page29{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page29 p{
+	color:red;
+}
+.page29 h2{
+	color:purple;
+}
+.page30 h2{
+	color:red;
+}
+.page30 p{
+	color:red;
+}
+.page30{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page31{
+	background-image:url("12.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat; 
+}
+.page41{
+	background-image:url("image.vieux.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.page41 p{
+	color:grey
+}
+.page32{
+	background-image:url("image.vieux.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat; 
+}
+.page33{
+	background-image:url("image.vieux.jpeg");
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat; 
+}
+.page34{
+	background-color:yellow;
+}
+.page34 h1{
+	color:grey;
+}
+.page34 h2{
+    color:red;
+}
+.page34 p{
+	color:black;
+}
+.acrostiche {
+  display: table;
+  margin:0 auto;
+  text-align:left;
+}
+
+.acrostiche p {
+  display: table-row;
+}
+
+.acrostiche .letter {
+  display: table-cell;
+  font-weight: bold;
+  width: 1.5em;
+}
